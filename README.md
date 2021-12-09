@@ -28,6 +28,20 @@ k:Created a VM using VirtManager
 
 l:Created a test file and executed it to see the results
 
+![Assig-04](https://user-images.githubusercontent.com/91702618/145349005-7194f4d3-1271-438a-910b-31d5b7fae64f.jpeg)
+
+![Assig-04-01](https://user-images.githubusercontent.com/91702618/145349023-c3940f29-44d3-4b76-86d4-f5079c6cfe91.jpeg)
+
+![Assig-04-02](https://user-images.githubusercontent.com/91702618/145349041-f8d11187-307f-49c1-9487-63a0b0129e86.jpeg)
+
+![Assig-04-03](https://user-images.githubusercontent.com/91702618/145349052-2fac9c91-05bf-4360-8e56-c64713f4bf7e.jpeg)
+
+![Assig-04-04](https://user-images.githubusercontent.com/91702618/145349065-08af86b7-288d-4351-a7bc-aea4a01e458f.jpeg)
+
+![Assig-04-05](https://user-images.githubusercontent.com/91702618/145349082-4a4208a7-7b77-4fd1-b840-56a7d522a5e0.jpeg)
+
+
+
 
 # Assignment02-283
 
