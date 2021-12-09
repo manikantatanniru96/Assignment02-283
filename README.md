@@ -88,3 +88,15 @@ modprobe kvm
 modprobe kvm_intel
 
 lsmod | grep kvm
+
+Ouput
+![Assig-03](https://user-images.githubusercontent.com/91702618/145343148-4ec44ed6-f298-444c-b52e-4f3d3fc720f2.jpeg)
+
+![Assig-03-01](https://user-images.githubusercontent.com/91702618/145343174-dd43d8fc-bf0a-4cd5-ac19-0012e361782f.jpeg)
+
+![Assig-03-02](https://user-images.githubusercontent.com/91702618/145343186-51833db6-d040-4393-b79c-dd41afbadd3d.jpeg)
+
+![Assig-03-03](https://user-images.githubusercontent.com/91702618/145343196-88e0ac9a-6309-4526-bc77-9ced4cfe4420.jpeg)
+
+![Assig-03-04](https://user-images.githubusercontent.com/91702618/145343214-b0eeda93-8d28-4d0e-8000-d837b4bb99ac.jpeg)
+
